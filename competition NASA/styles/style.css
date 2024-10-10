@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(../font/JosefinSans-VariableFont_wght.ttf);
+  }
+body {
+    font-family:myFirstFont ;
+}
+
+nav {
+    background-color: red;
+}
+.one  {
+    background-color: aqua;
+}
+.landing-section {
+    background-color: aqua;
+
+    .main {
+        background-color: blue;
+        div {
+            border:  2px red solid;
+            padding: 30px;
+        }
+    }
+}
+
+

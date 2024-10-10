@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    padding-top: 2.5vh;
+    background: linear-gradient(navy 2vh, purple);
+    margin-top: 2vh;
+    padding: 3vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+background-color: #000;
+}
+    
+    .f{
+        color: #ffffff;
+    }
